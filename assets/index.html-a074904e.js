@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-391c9192","path":"/project/super-array/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"超级数组","slug":"超级数组","link":"#超级数组","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"project/super-array/README.md"}');export{e as data};

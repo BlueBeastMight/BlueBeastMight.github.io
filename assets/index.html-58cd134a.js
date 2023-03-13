@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-58f998aa","path":"/java/frameworks/maven/","title":"maven","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/maven/README.md"}');export{a as data};

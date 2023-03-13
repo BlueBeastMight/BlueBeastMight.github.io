@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as o}from"./framework-5866ffd3.js";const n={},r=e("h2",{id:"反射注解实战模拟ioc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#反射注解实战模拟ioc","aria-hidden":"true"},"#"),o(" 反射注解实战模拟IOC")],-1),s=[r];function _(d,i){return a(),c("div",null,s)}const l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};

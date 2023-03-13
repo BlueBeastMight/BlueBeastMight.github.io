@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-4e6c5236","path":"/java/foundation/javaweb/","title":"javaweb","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/foundation/javaweb/README.md"}');export{a as data};

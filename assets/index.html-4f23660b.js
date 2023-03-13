@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-028b7778","path":"/project/health/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"传智健康","slug":"传智健康","link":"#传智健康","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"project/health/README.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-59e995f5","path":"/java/frameworks/mybatis-plus/","title":"mybatis-plus","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/mybatis-plus/README.md"}');export{a as data};

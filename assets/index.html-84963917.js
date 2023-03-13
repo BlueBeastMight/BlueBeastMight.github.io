@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a3bc8d8","path":"/bugs/sql/","title":"数据库bug","lang":"en-US","frontmatter":{"prev":"/bugs/ui/","next":"/bugs/backend/"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"bugs/sql/README.md"}');export{e as data};

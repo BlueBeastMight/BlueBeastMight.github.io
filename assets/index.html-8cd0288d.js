@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fa75355c","path":"/bugs/backend/","title":"后端bug","lang":"en-US","frontmatter":{"prev":"/bugs/sql/","next":"/bugs/other/"},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"bugs/backend/README.md"}');export{e as data};

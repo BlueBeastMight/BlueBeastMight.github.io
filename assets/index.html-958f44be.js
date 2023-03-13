@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-726236d6","path":"/database/oracle/","title":"oracle","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"database/oracle/README.md"}');export{a as data};

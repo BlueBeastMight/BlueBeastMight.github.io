@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as r}from"./framework-5866ffd3.js";const c={},s=e("h1",{id:"hibernate",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hibernate","aria-hidden":"true"},"#"),r(" hibernate")],-1),o=[s];function i(_,d){return a(),n("div",null,o)}const l=t(c,[["render",i],["__file","index.html.vue"]]);export{l as default};

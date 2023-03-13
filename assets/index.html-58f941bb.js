@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-655ef7c3","path":"/java/frameworks/hibernate/","title":"hibernate","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/hibernate/README.md"}');export{e as data};

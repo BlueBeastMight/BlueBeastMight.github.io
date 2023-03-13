@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-533d4f28","path":"/project/short-message/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"短信项目","slug":"短信项目","link":"#短信项目","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"project/short-message/README.md"}');export{e as data};

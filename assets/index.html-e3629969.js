@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-346c0d0e","path":"/op/kylin-v10/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"麒麟操作系统","slug":"麒麟操作系统","link":"#麒麟操作系统","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"op/kylin-v10/README.md"}');export{e as data};

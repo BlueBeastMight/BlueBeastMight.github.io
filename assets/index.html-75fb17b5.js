@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-773a210d","path":"/java/frameworks/springcloud/","title":"springcloud","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/springcloud/README.md"}');export{a as data};

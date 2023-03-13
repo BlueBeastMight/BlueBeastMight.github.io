@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as a,R as e,t as d}from"./framework-5866ffd3.js";const n={},r=e("h1",{id:"jdbc",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#jdbc","aria-hidden":"true"},"#"),d(" jdbc")],-1),s=[r];function o(_,i){return c(),a("div",null,s)}const l=t(n,[["render",o],["__file","index.html.vue"]]);export{l as default};

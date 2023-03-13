@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as n,R as e,t as r}from"./framework-5866ffd3.js";const s={},a=e("h1",{id:"springcloud",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springcloud","aria-hidden":"true"},"#"),r(" springcloud")],-1),o=[a];function d(i,_){return c(),n("div",null,o)}const h=t(s,[["render",d],["__file","index.html.vue"]]);export{h as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-222e2c9a","path":"/project/luxury/","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"二奢商城","slug":"二奢商城","link":"#二奢商城","children":[]}],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"project/luxury/README.md"}');export{e as data};

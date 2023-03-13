@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7dde4a5f","path":"/408/os/","title":"操作系统","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"408/os/README.md"}');export{t as data};

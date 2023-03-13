@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7053172c","path":"/java/foundation/jdbc/","title":"jdbc","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/foundation/jdbc/README.md"}');export{t as data};

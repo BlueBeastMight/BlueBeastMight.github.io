@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as c,R as e,t as r}from"./framework-5866ffd3.js";const o={},n=e("h1",{id:"oracle",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#oracle","aria-hidden":"true"},"#"),r(" oracle")],-1),s=[n];function _(d,i){return t(),c("div",null,s)}const h=a(o,[["render",_],["__file","index.html.vue"]]);export{h as default};

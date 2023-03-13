@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as n,R as e,t as r}from"./framework-5866ffd3.js";const s={},a=e("h1",{id:"springboot",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#springboot","aria-hidden":"true"},"#"),r(" springboot")],-1),c=[a];function i(_,d){return o(),n("div",null,c)}const l=t(s,[["render",i],["__file","index.html.vue"]]);export{l as default};

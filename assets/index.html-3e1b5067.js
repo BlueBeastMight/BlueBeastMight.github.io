@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as s,R as e,t as c}from"./framework-5866ffd3.js";const n={},r=e("h1",{id:"javase",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#javase","aria-hidden":"true"},"#"),c(" javase")],-1),o=[r];function _(d,i){return t(),s("div",null,o)}const l=a(n,[["render",_],["__file","index.html.vue"]]);export{l as default};

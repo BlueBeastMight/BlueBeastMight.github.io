@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-edf800de","path":"/java/frameworks/log/","title":"log","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/log/README.md"}');export{e as data};

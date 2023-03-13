@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as n,R as e,t as c}from"./framework-5866ffd3.js";const r={},s=e("h1",{id:"maven",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#maven","aria-hidden":"true"},"#"),c(" maven")],-1),o=[s];function _(d,i){return t(),n("div",null,o)}const l=a(r,[["render",_],["__file","index.html.vue"]]);export{l as default};

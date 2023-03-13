@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3ce10cc8","path":"/java/frameworks/springmvc/","title":"springmvc","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"java/frameworks/springmvc/README.md"}');export{a as data};
